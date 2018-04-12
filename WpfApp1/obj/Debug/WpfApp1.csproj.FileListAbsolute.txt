@@ -1,0 +1,50 @@
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting.dll
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting3D.dll
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Core.dll
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Data.dll
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Drawing.dll
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting.xml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting3D.xml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Core.xml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Data.xml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\SciChart.Drawing.xml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\ronan\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\CsvHelper.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting3D.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Core.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Data.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Drawing.dll
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\CsvHelper.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Charting3D.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Core.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Data.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\bin\Debug\SciChart.Drawing.xml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ronan\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
